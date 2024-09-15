@@ -22,4 +22,4 @@ async def check(ctx):
     else:
         await ctx.send("Olvido subir una imagen 😞")
 
-bot.run("MTI3OTg5MzE3NjI1MzE1MzQwMg.G9X55r.p0BQEFfUCDYopRjZPBTHXF21NJi_JvHZ24yDe0")    
+bot.run("discord token")    
